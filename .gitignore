@@ -1,4 +1,6 @@
-gitignore# Ambientes Python
+gitignore
+
+# Ambientes Python
 venv/
 env/
 .env
